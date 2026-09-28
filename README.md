@@ -80,6 +80,5 @@ This project transforms raw BMW sales data into a clear, interactive report. It 
 - Add year-over-year comparison
 - Include customer segment analysis
 - Publish to Power BI Service for online sharing
+<img width="2048" height="1175" alt="image" src="https://github.com/user-attachments/assets/f5237f21-87b2-45f7-8548-2350ed011c4e" />
 
----
-⭐ If you like this project, give it a star!
